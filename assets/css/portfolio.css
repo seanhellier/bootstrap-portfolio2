@@ -1,0 +1,36 @@
+
+body {
+  background-color:antiquewhite;
+}
+
+#rock {
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-size: 22px
+    font-weight: 700;
+    color: 4aaaa5;
+    border-bottom: 0;
+    background: #4aaaa4;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    bottom: 40px;
+    padding: 15px;
+    width: 274px;
+    line-height: 30px;
+    /* margin: 30px; */
+    margin-bottom: 0;
+    font-weight: 300;
+}
+h1 {
+    font-family: `font-family: 'Georgia', Times, Times New Roman, serif;`;
+font-weight: 700;
+color: #4aaaa5;
+  }
+
+  .container div.row:last-child {
+    border-bottom: 1px solid;
+    
+}
+
+
+
